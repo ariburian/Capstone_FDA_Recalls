@@ -3,3 +3,4 @@
 *.json
 *.zip
 *.pkl
+.DS_Store/
